@@ -75,7 +75,7 @@ export const challengeInfo = {
     disabled: false,
     description:
       "🔐 Master Zero-Knowledge Proofs with Arbitrum Stylus! Build and deploy smart contracts that utilize ZKPs for private verification, enabling age validation, balance checks, and password authentication. Spin up an Arbitrum Stylus Nitro dev node, design intuitive circuits, and integrate a React-powered frontend for seamless proof generation and verification. Deploy your contracts to a public testnet and publish your app on Vercel, creating a user-friendly platform for secure and efficient blockchain interactions. 🚀 Dive in to explore the cutting edge of blockchain privacy!",
-    previewImage: "assets/challenges/ZKP.svg",
+    previewImage: "assets/challenges/zkp.svg",
     // dependencies: ["simple-counter-example", "simple-nft-example", "vending-machine", "multisig-wallet"],
     dependencies: [],
   }
